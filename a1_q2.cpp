@@ -7,7 +7,7 @@ int main() {
     std::cin >> marks;
 
     if (marks > 90) {
-        std::cout << "Excellent";
+        std::cout << "Excellent ";
     } else if (marks > 80) {
         std::cout << "Good";
     } else if (marks > 70) {
